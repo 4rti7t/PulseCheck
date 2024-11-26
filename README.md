@@ -30,7 +30,9 @@ pip install rich
 
 **Run the script:**
 
-```python3 PulseCheck.py```
+```
+python3 PulseCheck.py
+```
 
 Watch as NetPulse pings the IPs and categorizes them into Live or Dead based on their response.
 
