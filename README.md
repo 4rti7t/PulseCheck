@@ -69,7 +69,7 @@ We welcome contributions! Feel free to fork the repo, create a new branch, and s
 
 **📄 License**
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+```This project is licensed under the MIT License. See the LICENSE file for details.```
 
 **🤝 Credits**
 Logo: Custom ASCII art (coming soon).
