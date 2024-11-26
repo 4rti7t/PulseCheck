@@ -18,7 +18,7 @@
 
 **### 1. Clone or Download the Repository**
 ```
-git clone [https://github.com/your-username/netpulse.git](https://github.com/4rti7t/PulseCheck.git)
+git clone https://github.com/4rti7t/PulseCheck.git
 cd CheckPulse
 ```
 **REQUIREMENTS:**
