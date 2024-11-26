@@ -26,7 +26,9 @@ cd CheckPulse
 pip install rich
 ```
 ⚡ Usage
-```Create a file with a list of IP addresses (one per line) and name it ips.txt```
+```
+Create a file with a list of IP addresses (one per line) and name it ips.txt
+```
 
 **Run the script:**
 
@@ -57,6 +59,10 @@ Dead IPs:
 | 192.168.1.100    |
 +------------------+
 ```
+![Screenshot_2024-11-27_00_19_28](https://github.com/user-attachments/assets/adab82bc-3172-4806-9027-502a5fd828aa)
+
+
+
 **💡 Contributing**
 
 We welcome contributions! Feel free to fork the repo, create a new branch, and submit a pull request. Any improvements, bug fixes, or feature requests are highly appreciated.
