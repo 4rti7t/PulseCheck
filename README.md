@@ -41,7 +41,7 @@ Watch as NetPulse pings the IPs and categorizes them into Live or Dead based on 
 After running the script, you will see a neatly formatted output like this:
 
 **RESULTS:**
-
+```
 Live IPs:
 +------------------+
 |   IP Address     |
@@ -56,7 +56,7 @@ Dead IPs:
 +------------------+
 | 192.168.1.100    |
 +------------------+
-
+```
 **💡 Contributing**
 
 We welcome contributions! Feel free to fork the repo, create a new branch, and submit a pull request. Any improvements, bug fixes, or feature requests are highly appreciated.
