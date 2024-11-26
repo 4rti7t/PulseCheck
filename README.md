@@ -1,6 +1,6 @@
-# **NetPulse**: Advanced IP Status Checker 🚀
+**# **NetPulse**: Advanced IP Status Checker 🚀**
 
-![NetPulse Logo](https://via.placeholder.com/150)  
+
 **NetPulse** is your go-to tool for efficiently checking the status of multiple IP addresses. Whether you're troubleshooting network issues or performing a security audit, this advanced Python tool provides a real-time, interactive experience to help you categorize **Live** and **Dead** IPs in style.
 
 ---
@@ -18,27 +18,28 @@
 
 ### 1. Clone or Download the Repository
 ```
-git clone https://github.com/your-username/netpulse.git
-cd netpulse
-2. Install Required Dependencies
-Ensure Python 3.7+ is installed, then run the following to install the necessary packages:
-
-bash
-Copy code
+git clone [https://github.com/your-username/netpulse.git](https://github.com/4rti7t/PulseCheck.git)
+cd CheckPulse
+```
+**REQUIREMENTS:**
+```
 pip install rich
+```
 ⚡ Usage
-Create a file with a list of IP addresses (one per line) and name it ips.txt.
-Run the script:
-bash
-Copy code
-python ping_check_advanced.py
+```Create a file with a list of IP addresses (one per line) and name it ips.txt```
+
+**Run the script:**
+
+```python3 PulseCheck.py```
+
 Watch as NetPulse pings the IPs and categorizes them into Live or Dead based on their response.
-🎨 Example Output
+
+**🎨 Example Output**
+
 After running the script, you will see a neatly formatted output like this:
 
-diff
-Copy code
-[green]Results[/green]
+**RESULTS:**
+
 Live IPs:
 +------------------+
 |   IP Address     |
@@ -53,16 +54,21 @@ Dead IPs:
 +------------------+
 | 192.168.1.100    |
 +------------------+
-💡 Contributing
+
+**💡 Contributing**
+
 We welcome contributions! Feel free to fork the repo, create a new branch, and submit a pull request. Any improvements, bug fixes, or feature requests are highly appreciated.
 
-📄 License
+**📄 License**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🤝 Credits
+**🤝 Credits**
 Logo: Custom ASCII art (coming soon).
 Technology Stack: Python, rich library for interactive output, and subprocess for system commands.
-🆘 Support
+
+**🆘 Support**
+
 If you encounter any issues, don't hesitate to open an issue. We're happy to help!
 
 Thanks for using NetPulse! 🌍
