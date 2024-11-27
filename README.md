@@ -1,4 +1,4 @@
-# **NetPulse**: Advanced IP Status Checker 🚀
+# **PULSE CHECK**: Advanced IP Status Checker 🚀
 
 
 **NetPulse** is your go-to tool for efficiently checking the status of multiple IP addresses. Whether you're troubleshooting network issues or performing a security audit, this advanced Python tool provides a real-time, interactive experience to help you categorize **Live** and **Dead** IPs in style.
